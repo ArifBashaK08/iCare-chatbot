@@ -1,10 +1,10 @@
-sentence-transformers==2.2.2
-langchain
+sentence-transformers
 pypdf
+pinecone
 python-dotenv
-pinecone[grcp]
+langchain-openai
 langchain-pinecone
 langchain-community
-langchain-openai
+langchain-huggingface
 langchain-experimental
 -e .
