@@ -1,5 +1,7 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: iCare-Chatbot---LLM
 Version: 0.0.0
 Author: Arif Basha K.
 Author-email: arifkolimi08@gmail.com
+Dynamic: author
+Dynamic: author-email
